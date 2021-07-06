@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Ngoài kia có hơn 7 tỏi người
     Nhưng với anh
     Nụ cười của em luôn là đẹp nhất!!`,
-    btnIntro: 'hihi',
+    btnIntro: 'hihi :D',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích anh <33',
